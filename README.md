@@ -83,32 +83,6 @@ Steven Succar
 #### Navigator
 Hamin Lee
 
-## Reflection
-### Pairing Variation
-In our case we had an Expert(Hamin)-Novice(Steven) pairing variation, which was beneficial for the Novice to learn from the
-Expert. However, due to time restriction, there were many times where Expert had to take over some part of the coding of 
-the Novice. Overall, both of us learned from this experience as well as saved time, we expected this feature to take 2 hours
-but only took 1.5 hours as we pair programmed. This means more programmer time, but still less time was consumed.
-
-### What we liked
-As mentioned above, features took less time to implement by having two brains working on one problem.
-Having someone constantly check our code that keeps us vigilant and alert thus resulted in a cleaner code. While navigating,
-we were able to slow down and suggest possible implementations that will enhance the quality of the code. In result,
-we were able to write a code that has high coherence, and minimal duplicate codes. If we were to code by ourselves,
-it would've been much harder to achieve high quality code. 
-
-Also, we both have different roles in our respective teams, thus that brought fresh perspectives of each roles.
-
-### What we disliked
-We had different prior experiences as well as different ways of interpreting the task at hand. Thus, the Expert(Hamin) in
-many times, had to take over for some part of coding for feature 2. This might of reduced the amount of material Novice could
-learn. Also, by pair programming, we were working at only one feature while we could have worked on two. If only thinking of
-time efficiency, I would way pair programming is not the right workflow. If the expert did not take over, the pair programming
-process would have been much longer resulting in increased programmer time. This is not optimal if you are a business that's
-willing to make profit.
-Also, it was hard finding a time where we were both able to work on the assignment at the exact same time.
-
-
 
 ## Program Design
 ### Design Pattern

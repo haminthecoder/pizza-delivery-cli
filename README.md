@@ -1,4 +1,4 @@
-# CSC301 Assignment 2 - Pizza Delivery App
+# Pizza Delivery CLI
 
 ## Getting Started
 
@@ -27,11 +27,12 @@ Normally you will be using Maven.
 
         java -cp target/a2-paired-0.0.1-SNAPSHOT.jar a2.PizzaParlour
         
-However, the maven project would'nt let me set Main Class using "manifest", so I'll tell you how to run it on IDEs.
+Or, if you are using an IDE,
 
 1) Open
 
         cd /src/main/java/a2
+        
 2) Right click on PizzaParlour.java, then run
 
         Ctrl + Shift + F10

@@ -10,7 +10,7 @@ Follow these steps :
 
 1) Run command
         
-        git clone https://github.com/csc301-winter-2019/pair03-Succarst-leehamin.git
+        git clone https://github.com/csc301-winter-2019/pizza-delivery-cli.git
 
 2) In Eclipse, you can select  Import -> Maven -> Existing Maven Project
 
